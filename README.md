@@ -1,6 +1,8 @@
 ### Hi there 👋
 <hr/>
+<br>
 # I'm a Computer Engineer student. 
+<br>
 # I have been dealing with various web technologies since 2018. I enjoy learning new things.
 <!--
 **ibrahimbas8/ibrahimbas8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
